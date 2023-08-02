@@ -1,0 +1,28 @@
+.search {
+  width: 20vw;
+}
+
+.navlist {
+  width: 609px;
+}
+
+.nav-link {
+  color: black;
+  font-weight: bolder;
+}
+
+.active {
+  color: red;
+}
+
+.country {
+  width: 30%;
+}
+
+.organization {
+  width: 20%;
+}
+
+.industry {
+  width: 30%;
+}

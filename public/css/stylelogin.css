@@ -1,0 +1,54 @@
+.framelogo {
+    width: 47rem;
+    height: 49.5rem;
+    background-color: #fff;
+}
+
+.logo {
+    width: 39.25rem;
+    height: 9.25rem;
+}
+
+.frameForm {
+    width: 59.4375rem;
+    height: 49.5rem;
+    background-color: #cc2a2a;
+}
+
+.formTitle {
+    width: 46.0625rem;
+    height: 39.9375rem;
+    background-color: #0d76b0;
+    border-radius: 30px;
+    padding-top: 6.44rem;
+}
+
+p {
+    width: 46.0625rem;
+    height: 7.3125rem;
+    color: #f1e2e2;
+    font-size: 4.875rem;
+}
+
+.formContent {
+    width: 46.0625rem;
+    height: 14.905rem;
+    margin-top: -2rem;
+}
+
+.formStyle {
+    margin-top: 2.28rem;
+    margin-left: 1rem;
+    width: 37.0625rem;
+    height: 5.125rem;
+    font-size: 1.75rem;
+}
+
+.buttonStyle {
+    margin-left: 1.56rem;
+    background-color: #32e044;
+    width: 14.5rem;
+    height: 3.125rem;
+    font-size: 1rem;
+    margin-top: 3rem;
+}
